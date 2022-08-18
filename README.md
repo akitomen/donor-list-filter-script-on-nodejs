@@ -2,7 +2,7 @@
 
 Clone the repository
 
-    git clone git@bitbucket.org:aleksandrs_kvasa/donor-list-test.git
+    git clone git@github.com:akitomen/donor-list-filter-script-on-nodejs.git
 
 >[About solving algorithm](OVERVIEW.md)
 
