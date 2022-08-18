@@ -1,0 +1,19 @@
+{
+  "name": "donor-list-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "lint": "eslint --ignore-path .gitignore ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.21.0",
+    "prisma": "^4.2.1"
+  },
+  "dependencies": {
+    "@prisma/client": "^4.2.1"
+  }
+}
